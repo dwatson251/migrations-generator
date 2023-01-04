@@ -35,9 +35,9 @@
 		}
 	},
 	"repositories":[
-        {
-            "type": "git",
-            "url": "https://github.com/dwatson251/Laravel-4-Generators"
-        }
-    ]
+        	{
+            		"type": "git",
+            		"url": "https://github.com/dwatson251/Laravel-4-Generators"
+        	}
+    	]
 }
